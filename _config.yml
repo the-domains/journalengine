@@ -1,0 +1,28 @@
+name: JournalEngine
+favicon: null
+layout_spectrum: 0.20397361204959452
+typography_spectrum: 0.27648590551689267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06625982094556093
+  lightness: 0.7302562079858035
+  saturation: 0.970403352053836
+  rhythmicContrast: 0.28532456792891026
+purpose: []
